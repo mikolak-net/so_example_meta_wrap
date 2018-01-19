@@ -1,0 +1,4 @@
+<plugin>
+    <name>apiembed</name>
+    <classname>com.example.plugin.ApiEmbed</classname>
+</plugin>
